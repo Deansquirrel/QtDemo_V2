@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml_main/Main/BusyPage.qml</file>
+        <file>qml_main/Main/main.qml</file>
+        <file>qml_main/Boot/Boot.qml</file>
+        <file>qml_main/Bill/Bill.qml</file>
+        <file>qml_main/Bill/Menu/Menu.qml</file>
+        <file>qml_main/Bill/Menu/MenuDelegate.qml</file>
+        <file>qml_main/Bill/AndroidDial/AndroidDial.qml</file>
+        <file>qml_main/Bill/AndroidDial/PhoneDelegate.qml</file>
+        <file>qml_main/Bill/Test/Test.qml</file>
+        <file>qml_main/Bill/AndiroidMap/AndroidMap.qml</file>
+        <file>qml_main/Bill/CryptoInQt/CryptoInQt.qml</file>
+        <file>qml_main/Bill/QMLCom/QMLCom.qml</file>
+    </qresource>
+</RCC>

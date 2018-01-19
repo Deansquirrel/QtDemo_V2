@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/tools.png</file>
+        <file>image/setting.png</file>
+        <file>image/backBlack.png</file>
+        <file>image/saveBlack.png</file>
+        <file>image/left.png</file>
+        <file>image/right.png</file>
+        <file>image/documents.png</file>
+    </qresource>
+</RCC>

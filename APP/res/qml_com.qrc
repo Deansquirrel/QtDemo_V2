@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml_com/Text.qml</file>
+        <file>qml_com/ComNote/ComNote.qml</file>
+        <file>qml_com/ComInputLine/ComInputLine.qml</file>
+        <file>qml_com/Button.qml</file>
+        <file>qml_com/TextField.qml</file>
+        <file>qml_com/Label.qml</file>
+        <file>qml_com/ComTopLine/ComTopLineBack.qml</file>
+        <file>qml_com/ComNumpad/back.png</file>
+        <file>qml_com/ComNumpad/backDisenabled.png</file>
+        <file>qml_com/ComNumpad/ComNumpad.qml</file>
+        <file>qml_com/ComNumpad/DeleteBtn.qml</file>
+        <file>qml_com/ComMessageBox/MessageBoxConfirm.qml</file>
+        <file>qml_com/ComMessageBox/MessageBoxNotice.qml</file>
+        <file>qml_com/ComMessageBox/MessageBoxInput.qml</file>
+        <file>qml_com/RadioButton.qml</file>
+        <file>qml_com/ComSelectList/ComSelectList.qml</file>
+    </qresource>
+</RCC>
